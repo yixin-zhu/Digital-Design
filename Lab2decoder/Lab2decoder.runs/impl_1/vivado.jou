@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Thu Oct 28 14:33:11 2021
+# Process ID: 33716
+# Current directory: D:/Desktop/vivadopj/Lab2decoder/Lab2decoder.runs/impl_1
+# Command line: vivado.exe -log decoder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source decoder.tcl -notrace
+# Log file: D:/Desktop/vivadopj/Lab2decoder/Lab2decoder.runs/impl_1/decoder.vdi
+# Journal file: D:/Desktop/vivadopj/Lab2decoder/Lab2decoder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source decoder.tcl -notrace
